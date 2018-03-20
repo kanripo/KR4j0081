@@ -6,7 +6,10 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB04n0293-000朝野新聲太平樂府-姓氏.
+# SB1_2099-010.png
+# page missing
 <pb:KR4j0081_SBCK_000-1a>¶
+# SB1_2099-011.png
 　　　　胡紫山　仇州判　王伯成　李徳載¶
 　　　　呉克齋　王敬甫　曽瑞卿　程景&KR0004;¶
 　　　　鍾&KR0071;先　趙彦輝　杜遵禮　孫季昌¶
